@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CalculadoraATV",
+    "slug": "CalculadoraATV",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CalculadoraATV"
+}
